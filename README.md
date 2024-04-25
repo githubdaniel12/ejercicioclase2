@@ -15,5 +15,6 @@ La programación es la actividad que se enfoca en organizar un conjunto de datos
  La inteligencia artificial (IA) es un campo de la informática que se enfoca en crear sistemas que puedan realizar tareas que normalmente requieren inteligencia humana, como el aprendizaje, el razonamiento y la percepción.
 
  [inteligencia-artificial.jpg](https://postimg.cc/G9v0qKqV)
+ 
 
  
