@@ -6,4 +6,6 @@
  
 ¿que es la progracion?
     
-La programación es la actividad que se enfoca en organizar un conjunto de datos ordenados a seguir para ser ciertas cosas, esta definición puede utilizarse en muchos contextos. Pero en el área de informática la programación es fundamental para la relación entre ordenadores y los usuarios
+La programación es la actividad que se enfoca en organizar un conjunto de datos ordenados a seguir para haser ciertas cosas, esta definición puede utilizarse en muchos contextos. Pero en el área de informática la programación es fundamental para la relación entre ordenadores y los usuarios
+
+[programacion.jpg](https://postimg.cc/gr1J6gr7)
