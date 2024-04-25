@@ -1,4 +1,4 @@
-*** #### ejercicioclase2 ***
+ #### _ejercicioclase2_
 
 **  ## que es la programación y que es la inteligencia artificial **
 
